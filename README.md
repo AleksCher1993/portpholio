@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Portpholio Aleks Cher]([https://alekscher1993.github.io/portpholio/]).
+This project was bootstrapped with [Portpholio Aleks Cher](https://alekscher1993.github.io/portpholio/).
 
 ## Available Scripts
 
