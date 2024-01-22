@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/portpholio/static/css/main.fcb2c567.css",
-    "main.js": "/portpholio/static/js/main.8c2f0200.js",
+    "main.js": "/portpholio/static/js/main.df15f1e9.js",
     "static/js/787.d4416501.chunk.js": "/portpholio/static/js/787.d4416501.chunk.js",
     "static/media/meatcomputer.png": "/portpholio/static/media/meatcomputer.d95e4b380a0fb79ee916.png",
     "static/media/myphoto.jpg": "/portpholio/static/media/myphoto.b048bc57a1b093dd8aa3.jpg",
     "static/media/headerBackgroundD.jpg": "/portpholio/static/media/headerBackgroundD.a6c12a4fd7d472774761.jpg",
+    "static/media/socialapp.JPG": "/portpholio/static/media/socialapp.93dd01d3ffbc06b78c16.JPG",
     "static/media/wildberris.JPG": "/portpholio/static/media/wildberris.62320a98c8db8ff5db09.JPG",
     "static/media/Shalimar-Regular.woff": "/portpholio/static/media/Shalimar-Regular.2ec65b29f9a276fe4cd1.woff",
     "static/media/pc.JPG": "/portpholio/static/media/pc.4a95152f207a3a7fa356.JPG",
@@ -17,11 +18,11 @@
     "static/media/logo.svg": "/portpholio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portpholio/index.html",
     "main.fcb2c567.css.map": "/portpholio/static/css/main.fcb2c567.css.map",
-    "main.8c2f0200.js.map": "/portpholio/static/js/main.8c2f0200.js.map",
+    "main.df15f1e9.js.map": "/portpholio/static/js/main.df15f1e9.js.map",
     "787.d4416501.chunk.js.map": "/portpholio/static/js/787.d4416501.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcb2c567.css",
-    "static/js/main.8c2f0200.js"
+    "static/js/main.df15f1e9.js"
   ]
 }
