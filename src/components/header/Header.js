@@ -11,8 +11,8 @@ export const Header = () => {
 
           <a
             className="header__button"
-            href=""
-            download="rezumeChernuhoAleksandr"
+            href="https://github.com/AleksCher1993/portpholio"
+            target="blank"
           >
             <span>cкачать резюме</span>
           </a>

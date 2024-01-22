@@ -782,6 +782,15 @@ input[type=range]:last-child {
   margin-bottom: 5%;
 }
 
+.toGit {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.toGit a {
+  cursor: pointer;
+}
+
 @media (max-width: 768.98px) {
   .main__container {
     padding: 0;
