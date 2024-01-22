@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portpholio/static/css/main.4b7c9d29.css",
-    "main.js": "/portpholio/static/js/main.6966d91f.js",
+    "main.js": "/portpholio/static/js/main.692fb95b.js",
     "static/js/787.d4416501.chunk.js": "/portpholio/static/js/787.d4416501.chunk.js",
     "static/media/meatcomputer.png": "/portpholio/static/media/meatcomputer.d95e4b380a0fb79ee916.png",
     "static/media/myphoto.jpg": "/portpholio/static/media/myphoto.b048bc57a1b093dd8aa3.jpg",
@@ -19,11 +19,11 @@
     "static/media/logo.svg": "/portpholio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/portpholio/index.html",
     "main.4b7c9d29.css.map": "/portpholio/static/css/main.4b7c9d29.css.map",
-    "main.6966d91f.js.map": "/portpholio/static/js/main.6966d91f.js.map",
+    "main.692fb95b.js.map": "/portpholio/static/js/main.692fb95b.js.map",
     "787.d4416501.chunk.js.map": "/portpholio/static/js/787.d4416501.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b7c9d29.css",
-    "static/js/main.6966d91f.js"
+    "static/js/main.692fb95b.js"
   ]
 }
