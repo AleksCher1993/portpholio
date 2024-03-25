@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/portpholio/static/css/main.6ccc6830.css",
-    "main.js": "/portpholio/static/js/main.5a8014e3.js",
+    "main.css": "/portpholio/static/css/main.1f90e323.css",
+    "main.js": "/portpholio/static/js/main.73e6e205.js",
     "static/media/winemarket.png": "/portpholio/static/media/winemarket.6b20f4ddf6dd4b4bb201.png",
     "static/media/foodsamurai.JPG": "/portpholio/static/media/foodsamurai.8b4581a5c64e20ecc566.JPG",
     "static/media/friendconnect.png": "/portpholio/static/media/friendconnect.dfd1c8a43d16c9b22f75.png",
     "static/media/myphoto.png": "/portpholio/static/media/myphoto.acae35465ef99e78c1e5.png",
+    "static/media/iphone13.jpg": "/portpholio/static/media/iphone13.a430a0486f3154225225.jpg",
+    "static/media/collectPC.jpg": "/portpholio/static/media/collectPC.5f2ebac4bd265557a29b.jpg",
+    "static/media/wildberris.jpg": "/portpholio/static/media/wildberris.02838f211621786ac753.jpg",
     "static/media/photoheader.png": "/portpholio/static/media/photoheader.31e1a37b10068df1051f.png",
+    "static/media/ozon.jpg": "/portpholio/static/media/ozon.b747694a0d3b4b3ad9a5.jpg",
     "static/media/starsBack.png": "/portpholio/static/media/starsBack.aa3bd7e6acc8ce9a2cf7.png",
     "index.html": "/portpholio/index.html",
-    "main.6ccc6830.css.map": "/portpholio/static/css/main.6ccc6830.css.map",
-    "main.5a8014e3.js.map": "/portpholio/static/js/main.5a8014e3.js.map"
+    "main.1f90e323.css.map": "/portpholio/static/css/main.1f90e323.css.map",
+    "main.73e6e205.js.map": "/portpholio/static/js/main.73e6e205.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ccc6830.css",
-    "static/js/main.5a8014e3.js"
+    "static/css/main.1f90e323.css",
+    "static/js/main.73e6e205.js"
   ]
 }
