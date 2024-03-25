@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portpholio/static/css/main.1f90e323.css",
-    "main.js": "/portpholio/static/js/main.73e6e205.js",
+    "main.js": "/portpholio/static/js/main.4b4c13b3.js",
     "static/media/winemarket.png": "/portpholio/static/media/winemarket.6b20f4ddf6dd4b4bb201.png",
     "static/media/foodsamurai.JPG": "/portpholio/static/media/foodsamurai.8b4581a5c64e20ecc566.JPG",
     "static/media/friendconnect.png": "/portpholio/static/media/friendconnect.dfd1c8a43d16c9b22f75.png",
@@ -14,10 +14,10 @@
     "static/media/starsBack.png": "/portpholio/static/media/starsBack.aa3bd7e6acc8ce9a2cf7.png",
     "index.html": "/portpholio/index.html",
     "main.1f90e323.css.map": "/portpholio/static/css/main.1f90e323.css.map",
-    "main.73e6e205.js.map": "/portpholio/static/js/main.73e6e205.js.map"
+    "main.4b4c13b3.js.map": "/portpholio/static/js/main.4b4c13b3.js.map"
   },
   "entrypoints": [
     "static/css/main.1f90e323.css",
-    "static/js/main.73e6e205.js"
+    "static/js/main.4b4c13b3.js"
   ]
 }
