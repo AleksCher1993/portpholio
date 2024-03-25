@@ -1,0 +1,1 @@
+export const selectHeaderState=(state)=>state.header

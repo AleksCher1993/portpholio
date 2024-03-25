@@ -1,0 +1,62 @@
+.navBurger {
+    display: none;
+    cursor:pointer;
+  }
+  
+  
+    .navBurderButton {
+      width: 50px;
+      height: 50px;
+      
+    }
+  
+    .navBurderButton > hr:nth-child(1) {
+      width: 80%;
+      margin: 13px 0 5px 3px;
+      height: 3px;
+      background-color: wheat;
+    }
+  
+    .navBurderButton > hr {
+      color: black;
+      height: 3px;
+      margin: 7px 0 5px 3px;
+      width: 60%;
+      -ms-flex-item-align: end;
+          align-self: flex-end;
+      background-color: wheat;
+    }
+    .navBurgerCloseButton{
+      width: 50px;
+      height: 50px;
+      position: relative;
+
+    }
+    .navBurgerCloseButton hr{
+      height: 4px;
+      width: 80%;
+      background-color: rgb(220, 41, 41);
+      position: absolute;
+      top: 50%;
+      border-radius: 20px;
+    }
+    .navBurgerCloseButton hr:nth-child(1){
+      transform: rotate(45deg) translateY(-50%);
+      left: -2px;
+    }
+    .navBurgerCloseButton hr:nth-child(2){
+      display: none;
+    }
+    .navBurgerCloseButton hr:nth-child(3){
+      transform: rotate(-45deg) translateY(-50%);
+    }
+    @media (max-width:768.98px) {
+      .navBurger {
+        display:flex;
+        position: fixed;
+        right: 0;
+        z-index: 500;
+        
+      }
+      
+    }

@@ -1,0 +1,1 @@
+export const popupState=(state)=>state.popup

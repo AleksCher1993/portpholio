@@ -1,0 +1,1 @@
+export const selectWorksState=(state)=>state.works

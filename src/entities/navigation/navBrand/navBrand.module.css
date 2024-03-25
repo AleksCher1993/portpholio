@@ -1,0 +1,32 @@
+.navBrand {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: 20%;
+    font-family: "Shalimar-Regular", "Times New Roman", Times, serif;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .navBrand > a {
+    color: wheat;
+    text-decoration: none;
+    font-size: 4rem;
+  }
+  @media (max-width:768.98px) {
+    .navBrand{
+      position: absolute;
+      z-index: 500;
+      width: 100px;
+      left: 50px;
+    }
+    .navBrand>a{
+      font-size: 40px;
+    }
+  }

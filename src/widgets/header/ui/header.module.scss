@@ -1,0 +1,132 @@
+@import "./../../../app/assets/styles/components/variable";
+header {
+  animation: bg-animation 25s ease-in-out infinite;
+  height: 80rem;
+  position: relative;
+  z-index: 222;
+}
+
+
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  max-width: 120rem;
+  margin: 0 auto;
+  padding-top: 20rem;
+}
+.description {
+  color: wheat;
+  width: 100%;
+
+}
+.description h3 {
+  font-size: 5rem;
+}
+.description h1 {
+  font-size: 6rem;
+  margin-top: 3rem;
+  color: #0EF;
+}
+
+.description p {
+  font-size: 1.8rem;
+  margin-top: 3rem;
+  max-width: 50rem;
+  word-spacing: 0.5rem;
+  line-height: 1.5;
+}
+
+
+.photo{
+  width: 70rem;
+  position: relative;
+  top: -10rem;
+}
+.photo img{
+  width: 100%;
+}
+@media (orientation: portrait) and (max-width: 768.98px) {
+  header {
+    height: 95rem;
+  }
+}
+// @media (orientation: portrait) and (min-width: 769px) {
+//   header {
+//     height: 95rem;
+//   }
+// }
+@media (orientation: landscape) and (max-width: 768.98px) {
+  header {
+    height: 95rem;
+  }
+}
+// @media (orientation: landscape) and (min-height: 500px) and (max-height: 1025px) {
+//   header {
+//     height: 95rem;
+//   }
+// }
+@media (min-width:769px) {
+  .mtop{
+    padding-top: 26rem!important;
+  }
+}
+@media (max-width: 768.98px) {
+  header {
+  }
+
+  .wrapper {
+    flex-direction: column;
+    align-items: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    gap: 10rem;
+  }
+  .description h3 {
+    font-size: $texth3;
+  }
+  .description h1 {
+    font-size: 6rem;
+  }
+  .description {
+    
+  }
+  .description h3{}
+  .description h1{}
+  .description p{
+    font-size: $textmobP;
+    max-width: 100%;
+  }
+.photo{
+  display: none;
+}
+}
+
+
+
+
+
+/* /////////////button////////////// */
+.downloadSV{
+  margin-top: 4rem;
+}
+.button{
+  padding: 1rem 3rem;
+  background: none;
+  font-size: 1.8rem;
+  color: wheat;
+  border: 1px solid wheat;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.6s ease;
+}
+.button a{
+  color: #0EF;
+}
+.button:hover{
+border: 1px solid #5a493c;
+}
+@media (max-width:768.98px) {
+  .button{
+    font-size: 4.2rem;
+  }
+}

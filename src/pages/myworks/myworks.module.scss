@@ -1,0 +1,37 @@
+.myworks{
+    background: #1f242d8e;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+.wrapper{
+    max-width: 120rem;
+    margin: 0 auto;
+}
+
+.description{
+    margin-bottom: 5rem;
+}
+.description h3{
+    text-align: center;
+}
+
+.workslist{}
+
+/* -----------item------------ */
+.worksitem{}
+
+@media (max-width:768.98px) {
+    .myworks{
+
+        padding-bottom: 0;
+    }
+    .wrapper{
+
+        padding-left: 3rem;
+        padding-right: 3rem;
+    }
+    .description{
+        margin-bottom: 10rem;
+    }
+    
+}

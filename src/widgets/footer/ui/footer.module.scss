@@ -1,0 +1,65 @@
+@import "./../../../app/assets/styles/components/variable";
+.footer{
+    font-size: 1.6rem;
+    max-width: 120rem;
+    margin: 0 auto;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+}
+.wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.scrolltop{
+    position: relative;
+    align-self: flex-end;
+    width: 5rem;
+    border-radius: 50%;
+    border: 1px solid wheat;
+    cursor: pointer;
+    top: -5rem;
+}
+
+.scrolltop a{
+    font-size: 4.8rem;
+    color: #0fe;
+}
+.scrolltop a i{
+}
+.copy{}
+.copy p{
+    text-align: center;
+    font-size: $textP - 0.3rem;
+}
+.copy p span{}
+
+@media (max-width:768.98px) {
+    .footer{
+        padding-left: 3rem;
+        padding-right: 3rem;
+        position: relative;
+    }
+    .wrapper{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .scrolltop{
+        position: static;
+        margin-bottom: 5rem;
+        align-self: center;
+    width: 48px;
+
+    }
+    .scrolltop a{
+        font-size: 44px;
+    }
+    .scrolltop a i{
+    }
+    .copy{}
+    .copy p{
+        font-size: $textmobP - 0.3rem;
+    }
+    .copy p span{}
+    
+}
